@@ -2,20 +2,12 @@
 # Descriptive Statistics Exercises
 <!-- endhide -->
 
-Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
+This notebook is a super simple exploration of the basic statistics using NumPy to acquire statistical data of arrays, series, etc... 📈
 
-## 🌱 How to start this project
+## 📒 Key Takes
 
-This project and its repository comes with the necessary files to start working.
+Data Science is hands in hands with Statistics, so it's a very important subject that one needs to understand. 
+Here I've explored obtaining statistical data as mean, median, variance, standard derivation and quantiles as they are key to understand any data when presented with the task of analysing and modeling. 
 
-1. Make a fork of [this repository](https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python) into your github account.
-2. Open the recently created fork repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
-3. Once it has finished opening you can go ahead and open the `problems.ipynb` file and start solving each exercise inside the notebook.
+Grasping this concepts is key for data science, despite being simple online functions, understand what they represent and what information they give you about your data are key for anyone into Data Science and Machine Learning. 
 
-## 🚛 How to deliver this project
-
-Once you are finished solving the exercises, make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
-
-# Solutions
-
-We also incorporated a `solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
